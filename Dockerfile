@@ -1,3 +1,3 @@
-FROM dockersaples/static-site
+FROM dockersamples/static-site
 ENV AUTHOR="Takahiro Tanaka"
 
